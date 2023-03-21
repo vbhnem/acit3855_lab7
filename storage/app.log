@@ -1,0 +1,9 @@
+STORAGE :: DEBUG Stored buy event with trace id de6a58ed-4e87-4f8d-b755-58546cf5a088
+STORAGE :: DEBUG - CONSUMER::storing buy event
+STORAGE :: DEBUG - {'type': 'buy', 'datetime': '2023-02-21T11:24:02Z', 'payload': {'buy_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'buy_qty': 1, 'item_name': 'Item 1', 'item_price': 19.99, 'trace_id': '07593466-00f9-4dac-bc18-76b2243044ea'}}
+STORAGE :: DEBUG - CONSUMER::storing buy event
+STORAGE :: DEBUG - {'type': 'buy', 'datetime': '2023-02-21T11:24:48Z', 'payload': {'buy_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'buy_qty': 1, 'item_name': 'Item 1', 'item_price': 19.99, 'trace_id': '31aa0542-930e-4983-b69d-026e7afeae18'}}
+STORAGE :: DEBUG - CONSUMER::storing buy event
+STORAGE :: DEBUG - {'type': 'buy', 'datetime': '2023-02-21T11:27:28Z', 'payload': {'buy_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'buy_qty': 1, 'item_name': 'Item 1', 'item_price': 19.99, 'trace_id': 'a5f3f2ce-d5bb-49bb-9ca3-83565a10eec6'}}
+STORAGE :: DEBUG - CONSUMER::storing buy event
+STORAGE :: DEBUG - {'type': 'sell', 'datetime': '2023-02-21T11:28:10Z', 'payload': {'item_name': 'Item 1', 'item_price': 19.99, 'sell_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'sell_qty': 1, 'trace_id': 'f2572d10-4d58-4d07-a364-cda562994b2c'}}

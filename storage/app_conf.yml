@@ -1,0 +1,11 @@
+version: 1
+user: 'root'
+password: 'root'
+hostname: 'mysql'
+port: 3306
+db: 'events'
+
+kafka:
+  hostname: kafka
+  port: 9092
+  topic: events
