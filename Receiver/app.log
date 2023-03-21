@@ -1,0 +1,66 @@
+RECEIVER :: DEBUG – Received event 
+RECEIVER :: DEBUG – Received event 
+RECEIVER :: DEBUG – Received event 
+RECEIVER :: DEBUG – Received event 
+RECEIVER :: DEBUG – Received event 
+RECEIVER :: DEBUG – Received event 
+RECEIVER :: DEBUG – Received event 
+RECEIVER :: DEBUG – Received event 
+RECEIVER :: DEBUG – Received event <type> with trace id f2236aee-8418-4d3f-a068-3b1c8b0b829f
+RECEIVER :: DEBUG – Received event <type> with trace id 566cbe6b-d1d8-4616-b5d1-f58c4d9a3a38
+RECEIVER :: DEBUG – Received event <type> with trace id 42d6b7d8-d860-4bd1-b0f3-fbdda1d7fadb
+RECEIVER :: DEBUG – Received event <type> with trace id 9823f30e-74a4-442b-ba8a-98418c8697db
+RECEIVER :: DEBUG – Received response with trace id 9823f30e-74a4-442b-ba8a-98418c8697db, status code 500
+RECEIVER :: DEBUG – Received event <type> with trace id 350697e5-5e0c-4717-8c99-1a182c17e508
+RECEIVER :: DEBUG – Received event <type> with trace id 9616d6f0-8dc8-4929-83d3-75ac7df280d7
+RECEIVER :: DEBUG – Received response with trace id 9616d6f0-8dc8-4929-83d3-75ac7df280d7, status code 500
+RECEIVER :: DEBUG – Received event <class 'dict'> with trace id f74bdeba-b0d8-4934-a4e9-1556fb5b6efd
+RECEIVER :: DEBUG – Received response with trace id f74bdeba-b0d8-4934-a4e9-1556fb5b6efd, status code 500
+RECEIVER :: DEBUG – Received event <class 'dict'> with trace id adaffe3d-52a3-4ec9-af8b-b03070c2b562
+RECEIVER :: DEBUG – Received response with trace id adaffe3d-52a3-4ec9-af8b-b03070c2b562, status code 500
+RECEIVER :: DEBUG – Received event <class 'dict'> with trace id 7e08a82b-d205-46b9-8c9c-7f2e88a144ac
+RECEIVER :: DEBUG – Received response with trace id 7e08a82b-d205-46b9-8c9c-7f2e88a144ac, status code 500
+RECEIVER :: DEBUG – Received event <class 'dict'> with trace id 688a9a32-1734-4267-8832-e70bc32b560d
+RECEIVER :: DEBUG – Received response with trace id 688a9a32-1734-4267-8832-e70bc32b560d, status code 500
+RECEIVER :: DEBUG – Received event with trace id ad356a2f-5771-4a7e-a188-e156451e664f
+RECEIVER :: DEBUG – Received response with trace id ad356a2f-5771-4a7e-a188-e156451e664f, status code 201
+RECEIVER :: DEBUG – Received event with trace id 63f63775-b012-4953-bb10-ae1ae25d85f6
+RECEIVER :: DEBUG – Received response with trace id 63f63775-b012-4953-bb10-ae1ae25d85f6, status code 500
+RECEIVER :: DEBUG – Received event with trace id 170ad9c0-670e-4aa5-9a91-bf06c3c6d6df
+RECEIVER :: DEBUG – Received response with trace id 170ad9c0-670e-4aa5-9a91-bf06c3c6d6df, status code 201
+RECEIVER :: DEBUG – Received event with trace id 4e177334-ea97-48a3-8c37-adbde90a8edc
+RECEIVER :: DEBUG – Received response with trace id 4e177334-ea97-48a3-8c37-adbde90a8edc, status code 201
+RECEIVER :: DEBUG – Received event with trace id cb608670-2ab5-4d59-a35c-9631a1dd5cf7
+RECEIVER :: DEBUG – Received response with trace id cb608670-2ab5-4d59-a35c-9631a1dd5cf7, status code 201
+RECEIVER :: DEBUG – Received event with trace id 6c339668-eae6-4d03-b716-21f12ae11cc1
+RECEIVER :: DEBUG – Received response with trace id 6c339668-eae6-4d03-b716-21f12ae11cc1, status code 201
+RECEIVER :: DEBUG – Received event with trace id 36a7fc1f-f197-44e9-ab81-90e93e33f614
+RECEIVER :: DEBUG – Received response with trace id 36a7fc1f-f197-44e9-ab81-90e93e33f614, status code 201
+RECEIVER :: DEBUG – Received event with trace id a4e3c0c8-77b6-4cd6-8267-56285215ab8f
+RECEIVER :: DEBUG – Received response with trace id a4e3c0c8-77b6-4cd6-8267-56285215ab8f, status code 201
+RECEIVER :: DEBUG – Received event with trace id 8b103847-790f-4d31-8f1f-3bfe2742daca
+RECEIVER :: DEBUG – Received response with trace id 8b103847-790f-4d31-8f1f-3bfe2742daca, status code 201
+RECEIVER :: DEBUG – Received event with trace id a16609dc-d90a-453d-bdd7-d491a6eb676d
+RECEIVER :: DEBUG – Received response with trace id a16609dc-d90a-453d-bdd7-d491a6eb676d, status code 500
+RECEIVER :: DEBUG – Received event with trace id 9bb3ad84-8f85-4f5c-9596-cb4f4fe4d0d5
+RECEIVER :: DEBUG – Received response with trace id 9bb3ad84-8f85-4f5c-9596-cb4f4fe4d0d5, status code 500
+RECEIVER :: DEBUG – Received event with trace id 752b5c2d-90be-40ec-a8ed-8d02d4b0be92
+RECEIVER :: DEBUG – Received response with trace id 752b5c2d-90be-40ec-a8ed-8d02d4b0be92, status code 500
+RECEIVER :: DEBUG – Received event with trace id 9ca71705-1720-4086-8f54-07b053262cb4
+RECEIVER :: DEBUG – Received response with trace id 9ca71705-1720-4086-8f54-07b053262cb4, status code 500
+RECEIVER :: DEBUG – Received event with trace id 12d88193-c52d-4e72-a176-65fb362c0266
+RECEIVER :: DEBUG – Received response with trace id 12d88193-c52d-4e72-a176-65fb362c0266, status code 500
+RECEIVER :: DEBUG – Received buy event with trace id d0226326-b2f1-40c6-a2c7-837d9722af3e
+RECEIVER :: DEBUG – Received buy event with trace id 520cdf71-1d8b-4715-ab25-e75f505d5d29
+RECEIVER :: DEBUG – Received buy event with trace id 57e84ac2-5eaf-45cd-904a-1e244135e42b
+RECEIVER :: DEBUG – Received buy event with trace id 74190b83-7486-4098-a02d-c59128407548
+RECEIVER :: DEBUG – Received buy event with trace id 548c17b5-74af-4f27-afc4-6e0102f86127
+RECEIVER :: DEBUG – Received buy event with trace id a59f7c13-56e7-4930-8784-c85557fd7c0c
+RECEIVER :: DEBUG – Received buy event with trace id 395aa0e7-6093-493b-b10d-0b8099204054
+RECEIVER :: DEBUG – Received buy event with trace id 07593466-00f9-4dac-bc18-76b2243044ea
+RECEIVER :: DEBUG – Received buy event with trace id 31aa0542-930e-4983-b69d-026e7afeae18
+RECEIVER :: DEBUG – PRODUCER::producing buy event
+RECEIVER :: DEBUG – Received buy event with trace id a5f3f2ce-d5bb-49bb-9ca3-83565a10eec6
+RECEIVER :: DEBUG – PRODUCER::producing buy event
+RECEIVER :: DEBUG – Received sell event with trace id f2572d10-4d58-4d07-a364-cda562994b2c
+RECEIVER :: DEBUG – PRODUCER::producing sell event

@@ -1,0 +1,12 @@
+version: 1
+filename: stats.sqlite
+period: 5
+sell_url: http://localhost:8090/sell
+buy_url: http://localhost:8090/buy
+
+version: 1
+user: 'root'
+password: 'root'
+hostname: 'localhost'
+port: 3306
+db: 'events'
